@@ -1,0 +1,50 @@
+ 
+.navbar {
+    position: relative;
+    width: 100%;  
+    max-width: 1614px;  
+    height: 64px;
+    background-color: #212731;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    margin: 0 auto;  
+}
+
+ 
+
+
+.menu-content {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #D1D6DA;
+}
+
+.menu-content-categories {
+    margin-left: 150px;  
+}
+
+.menu-content-website-builders,
+.menu-content-today-deals {
+    margin-left: 60px;  
+}
+
+.search-bar {
+    margin-left: auto; 
+}
+
+.search-bar input[type="text"] {
+    width: 258px;
+    height: 37px;
+    background-color: #FFFFFF;
+    border: 1px solid #E1E4E6;
+    border-radius: 8px;
+    padding: 5px 10px;
+    box-sizing: border-box;
+}
+
+ 
